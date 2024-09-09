@@ -8,7 +8,7 @@ Este repositório contém projetos, scripts e estudos que refletem minha jornada
 ### Machine Learning  
 
 - **Descrição:** Modelagem e implementação de algoritmos de aprendizado de máquina para resolver problemas complexos ou de big data.
-- **Exemplos:** Modelos de classificação e regressão, análise de séries temporais, e técnicas de pré-processamento de dados e modelos de previsão.
+- **Exemplos:** Modelos de classificação e regressão, análise de séries temporais, técnicas de pré-processamento de dados e modelos de previsão.
   
 ### Análise de Dados 
 
