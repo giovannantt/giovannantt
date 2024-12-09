@@ -1,6 +1,6 @@
 # Olá, me chamo Giovanna! 
 
-Engenheira de Produção cursando pós graduação em Ciência de Dados
+Engenheira de Produção, pós graduada em Ciência de Dados
 
 Este repositório contém projetos, scripts e estudos que refletem minha jornada e aprendizado na área de dados e análise.
 
